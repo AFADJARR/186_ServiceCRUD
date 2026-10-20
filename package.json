@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/AFADJARR/186_ServiceCRUD/issues"
   },
-  "homepage": "https://github.com/AFADJARR/186_ServiceCRUD#readme"
+  "homepage": "https://github.com/AFADJARR/186_ServiceCRUD#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "pg": "^8.23.1"
+  }
 }
